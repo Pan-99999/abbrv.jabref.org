@@ -18,3 +18,5 @@ The file has no header and is ordered by full name.
 The INDIN record describes the specific 2023 proceedings title. Other years and
 title variants need their own records; this data does not imply heuristic title parsing.
 Keep conference data separate from `journals/`.
+
+<!-- markdownlint-disable-file MD041 -->
